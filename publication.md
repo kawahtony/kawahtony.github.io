@@ -1,5 +1,5 @@
 layout: page
 title: "Publication"
-permalink: https://kawahtony.github.io/publication
+permalink: /publication/
 
 To be added
