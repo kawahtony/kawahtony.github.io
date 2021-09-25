@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-title-heading: false # don't show title
+name: About
+title: null
 permalink: /about/
 ---
 
