@@ -6,11 +6,14 @@ permalink: /about/
 
 Tony (Ka Wah) Wong
 
-Position: Postdoctoral Research Associate, [ICERM](https://icerm.brown.edu), Brown University.
+**Position**: Postdoctoral Research Associate, [ICERM](https://icerm.brown.edu), Brown University.
 
-Education:
+**Education**:
+
 2016-2021: Ph.D. Mathematics, The University of British Columbia. Advisors: [Colin Macdonald](https://personal.math.ubc.ca/~cbm/), [Michael Ward](https://personal.math.ubc.ca/~ward/)
+
 2014-2016: M.Phil. Mathematics, Hong Kong University of Science and Technology. Advisor: Tim Leung (https://www.math.hkust.edu.hk/~masyleung/)
+
 2011-2014: B.Sc. Mathematics, Hong Kong University of Science and Technology.
 
 
