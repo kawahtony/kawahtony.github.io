@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tony (Ka Wah) Wong
+title: About
 permalink: /about/
 ---
 
