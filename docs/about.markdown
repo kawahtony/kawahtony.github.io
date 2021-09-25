@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Tony (Ka Wah) Wong
 permalink: /about/
 ---
-
-Tony (Ka Wah) Wong
 
 **Position**: Postdoctoral Research Associate, [ICERM](https://icerm.brown.edu), Brown University.
 
