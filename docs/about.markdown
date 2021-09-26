@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
+
+About me ...
 
 **Position**: Postdoctoral Research Associate, [ICERM](https://icerm.brown.edu), Brown University.
 
