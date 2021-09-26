@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Reach me:
-
 **Email**: <img src='/assets/images/email.png' alt='draw' width="150"/>
 
 **Office**: Room 1004, 10th floor, 121 South Main Street, Providence, RI, 02903.
