@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src='/assets/images/me.jpeg' alt='draw' width="150"/>
 
-I am currently a Simons Bridge Postdoctoral Research Associate at [ICERM](https://icerm.brown.edu), Brown University. I completed my Ph.D program ([thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0401384?o=0)) at the University of British Colubmia in 2021, under the supervision of [Colin Macdonald](https://personal.math.ubc.ca/~cbm/) and [Michael Ward](https://personal.math.ubc.ca/~ward/). Prior to that, I received B.Sc. and M.Phil. ([thesis](https://lbezone.ust.hk/bib/b1627121)) at the Hong Kong University of Science and Technology, under the supervision of [Tim Leung](https://www.math.hkust.edu.hk/~masyleung/).
+I am currently a Simons Bridge Postdoctoral Research Associate at [ICERM](https://icerm.brown.edu), Brown University. I completed my Ph.D program ([thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0401384?o=0)) at the University of British Columbia in 2021, under the supervision of [Colin Macdonald](https://personal.math.ubc.ca/~cbm/) and [Michael Ward](https://personal.math.ubc.ca/~ward/). Prior to that, I received B.Sc. and M.Phil. ([thesis](https://lbezone.ust.hk/bib/b1627121)) at the Hong Kong University of Science and Technology, under the supervision of [Tim Leung](https://www.math.hkust.edu.hk/~masyleung/).
 
 <!-- **Education**:
 
